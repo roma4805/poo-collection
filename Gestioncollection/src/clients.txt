@@ -1,0 +1,2 @@
+Client{codeClient='C001', nomClient='Client 1', telClient='0600000001'
+Client{codeClient='C002', nomClient='Client 2',  telClient='0600000002'
